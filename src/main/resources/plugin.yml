@@ -1,0 +1,8 @@
+name: PieExample
+version: '${project.version}'
+main: top.jingwenmc.pieexample.PieExample
+authors: [ jingwenMC ]
+description: An example to SpigotPie
+website: https://github.com/jingwenMC
+#depend:
+#  - SpigotPie
